@@ -1,4 +1,4 @@
 ---
-title: Jekyll URL Shortener
-redirect_to: https://github.com/hlaueriksson/jekyll-url-shortener
+title: Magic-Link
+redirect_to: https://github.com/nibirrayy/Magic-Link
 ---
